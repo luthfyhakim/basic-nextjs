@@ -4,7 +4,7 @@ import Layout from '../../components/Layout';
 
 export default function Users() {
     return (
-        <Layout>
+        <Layout pageTitle="Users">
             <div>
                 <p>Index</p>
             </div>
